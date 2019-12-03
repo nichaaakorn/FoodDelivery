@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249648993939",
+    "firebase_url": "https://foodmonkey-36546.firebaseio.com",
+    "project_id": "foodmonkey-36546",
+    "storage_bucket": "foodmonkey-36546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249648993939:android:52e9d76f3a3a4e7c695f66",
+        "android_client_info": {
+          "package_name": "com.prae.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249648993939-0qi0hk9auucll5qgs9mgcq0dilsqgcm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prae.fooddelivery",
+            "certificate_hash": "9a8480fd114f3bd785a9f98abb91b7f9f74d254c"
+          }
+        },
+        {
+          "client_id": "249648993939-8m0r9qt4594rcejh7apc64lb02idr3pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQw4bbTFDAOHgiZ9sv-9castbLEOBCws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249648993939-8m0r9qt4594rcejh7apc64lb02idr3pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
